@@ -1,0 +1,57 @@
+{
+    "name": "Development Seed",
+    "description": "<p><span>We help empower citizens and organizations with tools and data to solve complex issues and make better decisions. As a small team we have implemented some of the largest development&nbsp;<\/span><a href=\"http:\/\/www.developmentseed.org\/projects\">projects<\/a><span>. Our agile approach has been refined&nbsp;<\/span><a href=\"http:\/\/www.developmentseed.org\/about\/history\">over years<\/a><span>&nbsp;of experience building open source and highly performant web applications.<\/span><\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/DevelopmentSeed.png",
+    "tags": [
+        "agencies",
+        "data",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/development-seed\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Development Seed",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/DevelopmentSeed.png",
+            "humanURL": "http:\/\/www.developmentseed.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/development-seed-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/development-seed-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.developmentseed.org\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.developmentseed.org\/blog.rss"
+        },
+        {
+            "type": "Email",
+            "url": "info@developmentseed.org"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/developmentseed\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.developmentseed.org\/"
+        }
+    ]
+}
