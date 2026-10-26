@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Development Seed is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://www.developmentseed.org
+Development Seed is a geospatial data science and engineering firm that builds open-source tools and platforms to help organizations make better decisions about the planet. They provide cloud‑first infrastructure, AI for Earth solutions, and consulting services, working with partners across environmental, humanitarian, and commercial sectors to deliver streaming insights and analytics.
+
+**Areas:** Geospatial · DataScience · OpenSource · CloudInfrastructure · AIforEarth · Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://developmentseed.org)
+- [Support](https://developmentseed.org/contact)
+- [Blog](https://developmentseed.org/blog)
+- [GitHub](https://github.com/developmentseed)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/development-seed/](https://apis.io/providers/development-seed/).
